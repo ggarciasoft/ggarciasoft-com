@@ -1,6 +1,6 @@
 # ggarciasoft website
 
-The complete static website, including the SaaS projects section featuring Boletto and AdjudicaRD.
+The complete static website, including a projects section covering Boletto, AdjudicaRD, Leali, OrchestFlowAI, mail-atlas, bank-atlas, and ReleaseHub (with repository and live-site links where they exist).
 
 ## Open locally
 
