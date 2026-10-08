@@ -21,3 +21,8 @@
 .project-mailatlas .project-name{color:#f2b8c6}
 .project-bankatlas .project-name{color:#9fd6f5}
 .project-releasehub .project-name{color:#d3c3f5}
+.cta-email{color:#18220e;text-decoration:underline;text-underline-offset:3px;font-weight:600}
+.cta-email:hover{color:#000}
+.footer-email{color:var(--lime);border-bottom:1px solid #4a5a2f;transition:color .2s}
+.footer-email:hover{color:#d4ff88}
+.form-status a{color:var(--lime);text-decoration:underline;text-underline-offset:2px}
